@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\GithubExamples\SolidLiskovExample\SolidLiskovExample\bin\Debug\net6.0\SolidLiskovExample.exe
+C:\Users\hp\Desktop\GithubExamples\SolidLiskovExample\SolidLiskovExample\bin\Debug\net6.0\SolidLiskovExample.deps.json
+C:\Users\hp\Desktop\GithubExamples\SolidLiskovExample\SolidLiskovExample\bin\Debug\net6.0\SolidLiskovExample.runtimeconfig.json
+C:\Users\hp\Desktop\GithubExamples\SolidLiskovExample\SolidLiskovExample\bin\Debug\net6.0\SolidLiskovExample.dll
+C:\Users\hp\Desktop\GithubExamples\SolidLiskovExample\SolidLiskovExample\bin\Debug\net6.0\ref\SolidLiskovExample.dll
+C:\Users\hp\Desktop\GithubExamples\SolidLiskovExample\SolidLiskovExample\bin\Debug\net6.0\SolidLiskovExample.pdb
+C:\Users\hp\Desktop\GithubExamples\SolidLiskovExample\SolidLiskovExample\obj\Debug\net6.0\SolidLiskovExample.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\GithubExamples\SolidLiskovExample\SolidLiskovExample\obj\Debug\net6.0\SolidLiskovExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\GithubExamples\SolidLiskovExample\SolidLiskovExample\obj\Debug\net6.0\SolidLiskovExample.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\GithubExamples\SolidLiskovExample\SolidLiskovExample\obj\Debug\net6.0\SolidLiskovExample.AssemblyInfo.cs
+C:\Users\hp\Desktop\GithubExamples\SolidLiskovExample\SolidLiskovExample\obj\Debug\net6.0\SolidLiskovExample.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\GithubExamples\SolidLiskovExample\SolidLiskovExample\obj\Debug\net6.0\SolidLiskovExample.dll
+C:\Users\hp\Desktop\GithubExamples\SolidLiskovExample\SolidLiskovExample\obj\Debug\net6.0\ref\SolidLiskovExample.dll
+C:\Users\hp\Desktop\GithubExamples\SolidLiskovExample\SolidLiskovExample\obj\Debug\net6.0\SolidLiskovExample.pdb
+C:\Users\hp\Desktop\GithubExamples\SolidLiskovExample\SolidLiskovExample\obj\Debug\net6.0\SolidLiskovExample.genruntimeconfig.cache

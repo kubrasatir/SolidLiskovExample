@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0067ec13-5e03-450f-a7c7-d983f528459c": {
+      "ProjectGuid": "0067ec13-5e03-450f-a7c7-d983f528459c",
+      "DisplayName": "SolidLiskovExample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
